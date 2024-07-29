@@ -2,6 +2,20 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRndzcwcnlpaGczcWMyNW42MmxjYnR0a2dncnh0MDR0YXRwOWZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u8vTGiGwCrGSY/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marwan149/count.svg?"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -47,6 +61,19 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/marwan149/marwan149/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhvemw5Y3JzcjJtOTYyeG04c2hvbGlvcDNpNDU0aGc1eXF4eWhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NGp9QCXJcBPuU/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwan149&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwan149&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
