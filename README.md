@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://wallpapers.com/images/high/4k-tech-d9whoe83mb1c9e8w.webp"  />
+  <img height="385" src="https://c4.wallpaperflare.com/wallpaper/870/832/855/futuristic-hud-science-fiction-tech-abstract-hd-wallpaper-preview.jpg"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a student at HNU 👨‍🎓<br>Finished Machine learning LEVEL1 <br>Ranked on Kaggle 1125 in Notebooks</p>
+<p align="left">I'm a student at HNU 👨‍🎓<br>Finished Machine learning LEVEL1 <br>Ranked 1125 on Kaggle in Notebooks</p>
 
 ###
 
@@ -66,11 +66,5 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marwan149/marwan149/output/snake.svg" alt="Snake animation" />
 
 ###
