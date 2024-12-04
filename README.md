@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="385" src="https://c4.wallpaperflare.com/wallpaper/870/832/855/futuristic-hud-science-fiction-tech-abstract-hd-wallpaper-preview.jpg"  />
-</div>
-
-###
-
 <h1 align="left">Hello There, I'm Marwan Ashref , a Machine Learning Developer 👋:</h1>
 
 ###
